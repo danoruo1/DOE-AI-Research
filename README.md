@@ -17,15 +17,7 @@
 #### For the RL task, I choose a Deep Q Network
 
 ### Labels 
-- #### BMP  
-- #### BPG  
-- #### GIF  
-- #### JPEG  
-- #### JPF  
-- #### JXR  
-- #### PNG  
-- #### TIF  
-- #### WEBP  
+#### BMP · #### BPG · #### GIF · #### JPEG · #### JPF · #### JXR · #### PNG · #### TIF · #### WEBP
 
 ### Metrics
 - ###### Confusion Matrix
