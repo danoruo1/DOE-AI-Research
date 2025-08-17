@@ -20,8 +20,8 @@
 #### BMP (Bitmap), BPG (Better Portable Graphics), GIF (Graphics Interchange Format), JPEG (Joint Photographic Experts Group), JPF (JPEG 2000), JXR (JPEG Extended Range), PNG (Portable Network Graphics), TIF (Tagged Image File Format), WEBP (Web Picture)
 
 ### Metrics
-- ###### Confusion Matrix
-- ###### F1 Score
+- ###### Confusion Matrix: A table that summarizes the performance of a classification model by comparing predicted labels to actual labels.
+- ###### F1 Score: A metric that balances precision (how many of the predicted positives are correct) and recall (how many of the actual positives are correctly identified)
 
 
 ## Results
