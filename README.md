@@ -8,7 +8,7 @@
 
 ## Data Preprocessing
 
-#### I modified the original file fragmented datasets to scramble the name, as the names already revealed the label. Then from there I created a mapping to the original file type and file name in mappings.json.
+#### To prevent data leakage from file names, the original fragmented dataset was modified by scrambling the filenames. This ensured that the names themselves did not reveal the corresponding file type label. A separate mapping file, mappings.json, was then created to preserve the relationship between each scrambled filename and its original file type and filename. This allowed the dataset to remain anonymized during training, while still enabling accurate label retrieval when necessary.
 
 
 ## Methodology
