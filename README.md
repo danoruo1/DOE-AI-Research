@@ -37,7 +37,7 @@
 - ##### F1 Score: 
 - ##### Confusion Matrix
 
-### Deep Q Networks (LLM)
+### Deep Q Networks (RL)
 - ##### F1 Score: 
 - ##### Confusion Matrix
 
