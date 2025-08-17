@@ -25,11 +25,12 @@
 
 ### Classification Task
 - #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
-## Results
 
 ### Labels
 - #### Legacy (Image formats through the early 2000s)
 - #### Modern (Image formats from 2010s-Present)
+
+## Results
 
 
 ### Bert (LLM)
