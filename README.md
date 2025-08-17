@@ -17,7 +17,7 @@
 #### For the RL task, I choose a Deep Q Network
 
 ### Labels 
-#### BMP, BPG, GIF, JPEG, JPF, JXR, PNG, TIF, WEBP
+#### BMP (Bitmap), BPG (Better Portable Graphics), GIF (Graphics Interchange Format), JPEG (Joint Photographic Experts Group), JPF (JPEG 2000), JXR (JPEG Extended Range), PNG (Portable Network Graphics), TIF (Tagged Image File Format), WEBP (Web Picture)
 
 ### Metrics
 - ###### Confusion Matrix
