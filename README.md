@@ -37,7 +37,7 @@
 - ##### F1 Score: 
 - ##### Confusion Matrix
 
-### Bert (LLM)
+### Deep Q Networks (LLM)
 - ##### F1 Score: 
 - ##### Confusion Matrix
 
