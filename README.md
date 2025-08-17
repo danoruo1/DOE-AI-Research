@@ -16,15 +16,21 @@
 
 #### For the RL task, I choose a Deep Q Network
 
-### Labels 
+### File Types 
 #### BMP (Bitmap), BPG (Better Portable Graphics), GIF (Graphics Interchange Format), JPEG (Joint Photographic Experts Group), JPF (JPEG 2000), JXR (JPEG Extended Range), PNG (Portable Network Graphics), TIF (Tagged Image File Format), WEBP (Web Picture)
 
 ### Metrics
 - ###### Confusion Matrix: A table that summarizes the performance of a classification model by comparing predicted labels to actual labels.
 - ###### F1 Score: A metric that balances precision (how many of the predicted positives are correct) and recall (how many of the actual positives are correctly identified)
 
-
+### Classification Task
+- #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
 ## Results
+
+### Labels
+- #### Legacy (Image formats through the early 2000s)
+- #### Modern (Image formats from 2010s-Present)
+
 
 ### Bert (LLM)
 - ###### F1 Score: 
@@ -41,4 +47,4 @@
 
 ### BERT Implementation: https://arxiv.org/abs/1910.10781
 
-### Deep Q Network Implementation: 
+### Deep Q Network Implementation: https://www.sciencedirect.com/science/article/pii/S1474034619305506
