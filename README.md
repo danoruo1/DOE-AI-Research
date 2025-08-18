@@ -23,13 +23,13 @@
 - ##### Confusion Matrix: A table that summarizes the performance of a classification model by comparing predicted labels to actual labels.
 - ##### F1 Score: A metric that balances precision (how many of the predicted positives are correct) and recall (how many of the actual positives are correctly identified)
 
-### Classification Task
-- #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
-
 ### Labels
 - #### Legacy (Image formats through the early 2000s)
 - #### Modern (Image formats from 2010s-Present)
 #### 1 For Legacy, 0 for Modern
+
+### Classification Task
+- #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
 
 ## Results
 
