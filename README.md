@@ -29,6 +29,7 @@
 ### Labels
 - #### Legacy (Image formats through the early 2000s)
 - #### Modern (Image formats from 2010s-Present)
+### 1 For Legacy, 0 for Modern
 
 ## Results
 
