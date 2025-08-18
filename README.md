@@ -26,10 +26,10 @@
 ### Labels
 - #### Legacy (Image formats through the early 2000s)
 - #### Modern (Image formats from 2010s-Present)
-#### 1 For Legacy, 0 for Modern
 
 ### Classification Task
 - #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
+#### 1 For Legacy, 0 for Modern
 
 ## Results
 
