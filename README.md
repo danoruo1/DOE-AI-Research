@@ -14,6 +14,15 @@
 ## Methodology
 #### I chose BERT as the LLM. Being an encoder-only model, it generates embeddings from the input (image, files,etc), which can then be passed through a classification layer to produce the final label. This architecture is ideal for my task, since the objective is classification rather than text generation. The embeddings are the numerical representation of the input, which allows the model to process the information.
 
+- ### Step 0: Import Dataset, using mappings.json put them in the correct place. 
+
+- ### Step 1: Encode the inputs
+### We put the fragments into a format that the LLM can understand. (Ex Compessed-WEBP.dat -> [1, 3, 4, 5])
+
+- ### Step 2: Train the model to process 
+### 
+
+
 #### For the RL task, I choose a Deep Q Network
 
 ### File Types 
