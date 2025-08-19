@@ -19,8 +19,8 @@
 - ### Step 1: Encode the inputs
 ### We put the fragments into a format that the LLM can understand. (Ex Compessed-WEBP.dat -> [1, 3, 4, 5])
 
-- ### Step 2: Train the model to process 
-### 
+- ### Step 2: Train the model
+### We must train the model to pr
 
 
 #### For the RL task, I choose a Deep Q Network
