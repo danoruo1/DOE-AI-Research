@@ -12,15 +12,7 @@
 
 
 ## Methodology
-#### I chose BERT as the LLM. Being an encoder-only model, it generates embeddings from the input (image, files,etc), which can then be passed through a classification layer to produce the final label. This architecture is ideal for my task, since the objective is classification rather than text generation. The embeddings are the numerical representation of the input, which allows the model to process the information.
-
-- ### Step 0: Import Dataset, using mappings.json put them in the correct place. 
-
-- ### Step 1: Encode the inputs
-### We put the fragments into a format that the LLM can understand. (Ex Compessed-WEBP.dat -> [1, 3, 4, 5])
-
-- ### Step 2: Train the model
-### We must train the model to pr
+#### I chose GPT4.0 as the LLM. Being an encoder-only model, it excels with NLP tasks as well as generating texts to caption images. I plan to prompt it for binary classification providing a 1 - Legacy or 0 - Modern.
 
 
 #### For the RL task, I choose a Deep Q Network
@@ -36,14 +28,11 @@
 - #### Legacy (Image formats through the early 2000s)
 - #### Modern (Image formats from 2010s-Present)
 
-### Classification Task
-- #### Originally Planned to planned to do a multiclassification task, but switched it to Binary Classification. (Legacy File Fragments vs Modern File Fragments)
-- #### Binary Classification: 1 For Legacy, 0 for Modern
 
 ## Results
 
 
-### Bert (LLM)
+### GPT 4.0 (LLM)
 - ##### F1 Score: 
 - ##### Confusion Matrix
 
